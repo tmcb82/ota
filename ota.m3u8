@@ -4,4 +4,4 @@
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSNews.us.png" group-title="News", CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_12.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNDC_4@199302/master.m3u8
