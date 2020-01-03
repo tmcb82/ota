@@ -1,6 +1,6 @@
 #EXTM3U  
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/buzzr.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CBSNews.us.png" group-title="News", CBSN
