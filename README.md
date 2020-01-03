@@ -8,3 +8,6 @@ Current channels:
 Buzzr<br>
 CBSN<br>
 Court TV<br>
+
+
+https://tmcb82.github.io/ota/ota.m3u8
