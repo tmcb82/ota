@@ -13,6 +13,7 @@ Court TV (SD, 540)<br>
 ABC News (HD, 720)<br>
 Newsy (HD, 1080)<br>
 Bloomberg (HD, 720)<br>
+France24 (HD, 720)<br>
 NASA TV (HD, 720)<br>
 Tastemade (HD, 720)<br>
 The Weather Channel (HD, 720)<br>
