@@ -5,6 +5,6 @@ Last update: 1/2/2020
 
 Current channels:
 
-Buzzr
-CBSN
-Court TV
+Buzzr<br>
+CBSN<br>
+Court TV<br>
