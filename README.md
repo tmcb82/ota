@@ -9,6 +9,7 @@ Buzzr (SD, 480p)<br>
 CBSN (HD, 720p)<br>
 Court TV (SD, 540p)<br>
 ABC News (HD, 720p)<br>
+Newsy (HD, 720p)<br>
 Bloomberg (HD, 720p)<br>
 NASA TV (HD, 720p)<br>
 
