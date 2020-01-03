@@ -6,7 +6,7 @@ Last update: 1/3/2020
 Current channels:
 
 Buzzr (SD, 480)<br>
-Comet (SD, 480p†<br>
+Comet (SD, 480)†<br>
 Charge! (SD, 480/540)†<br>
 CBSN (HD, 720)<br>
 Court TV (SD, 540)<br>
