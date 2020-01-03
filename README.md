@@ -20,7 +20,7 @@ CBS Sports HQ (HD, 720p)<br>
 Red Bull TV (HD, 720p)<br>
 Olympic Channel (HD, 720p)<br>
 
-*During commercials short segments with loop often and feel broken but this is normal.
+*During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
 
 
 M3U8 location:<br>
