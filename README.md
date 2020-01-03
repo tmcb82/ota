@@ -6,6 +6,8 @@ Last update: 1/2/2020
 Current channels:
 
 Buzzr (SD, 480p)<br>
+Comet (SD, 480p)<br>
+Charge! (SD, 480p)<br>
 CBSN (HD, 720p)<br>
 Court TV (SD, 540p)<br>
 ABC News (HD, 720p)<br>
