@@ -24,6 +24,9 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/bloomberg.png" group-title="News", Bloomberg Television
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/france24.png" group-title="News", France24
+http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
+
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/nasa.png" group-title="Entertainment", NASA TV
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 
