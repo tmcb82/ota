@@ -5,9 +5,9 @@ Last update: 1/2/2020
 
 Current channels:
 
-Buzzr<br>
-CBSN<br>
-Court TV<br>
+Buzzr (SD)<br>
+CBSN (HD)<br>
+Court TV (SD, 540p)<br>
 
 
 M3U8 location:<br>
