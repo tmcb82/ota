@@ -27,6 +27,9 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/weather.png" group-title="Lifestyle", The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cbssportshq.png" group-title="Sports", CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/redbull.png" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
