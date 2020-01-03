@@ -24,8 +24,11 @@ https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Lifestyle", Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/weather.png" group-title="Lifestyle", The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/redbull.png" group-title="Sports", Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/olympic.png" group-title="Sports", Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
