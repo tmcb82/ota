@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/buzzr.png" group-title="Entertainment", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cbsn.png" group-title="News", CBSN
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cbsn.png" group-title="News", CBSN HD
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_12.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://tmcb82.github.io/ota/logos/courttv.png" group-title="News", Court TV
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/courttv.png" group-title="News", Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
