@@ -16,10 +16,9 @@ Bloomberg (HD, 720)<br>
 France24 (HD, 720)<br>
 NASA TV (HD, 720)<br>
 Tastemade (HD, 720)<br>
-The Weather Channel (HD, 720)<br>
 CBS Sports HQ (HD, 1080)<br>
 Red Bull TV (HD, 720)<br>
-Olympic Channel (HD, 720)<br>
+
 
 †During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
 
