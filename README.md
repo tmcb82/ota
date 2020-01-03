@@ -5,7 +5,7 @@ Last update: 1/2/2020
 
 Current channels:
 
-Buzzr (SD)<br>
+Buzzr (SD, 480p)<br>
 CBSN (HD)<br>
 Court TV (SD, 540p)<br>
 
