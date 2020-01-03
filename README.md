@@ -12,6 +12,7 @@ ABC News (HD, 720p)<br>
 Newsy (HD, 720p)<br>
 Bloomberg (HD, 720p)<br>
 NASA TV (HD, 720p)<br>
+Red Bull TV (HD, 720p)<br>
 Olympic Channel (HD, 720p)<br>
 
 
