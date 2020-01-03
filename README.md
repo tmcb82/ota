@@ -5,20 +5,20 @@ Last update: 1/3/2020
 
 Current channels:
 
-Buzzr (SD, 480p)<br>
-Comet (SD, 480p)†<br>
-Charge! (SD, 480p/540p)†<br>
-CBSN (HD, 720p)<br>
-Court TV (SD, 540p)<br>
-ABC News (HD, 720p)<br>
-Newsy (HD, 720p)<br>
-Bloomberg (HD, 720p)<br>
-NASA TV (HD, 720p)<br>
-Tastemade (HD, 720p)<br>
-The Weather Channel (HD, 720p)<br>
-CBS Sports HQ (HD, 720p)<br>
-Red Bull TV (HD, 720p)<br>
-Olympic Channel (HD, 720p)<br>
+Buzzr (SD, 480)<br>
+Comet (SD, 480p†<br>
+Charge! (SD, 480/540)†<br>
+CBSN (HD, 720)<br>
+Court TV (SD, 540)<br>
+ABC News (HD, 720)<br>
+Newsy (HD, 1080)<br>
+Bloomberg (HD, 720)<br>
+NASA TV (HD, 720)<br>
+Tastemade (HD, 720)<br>
+The Weather Channel (HD, 720)<br>
+CBS Sports HQ (HD, 720)<br>
+Red Bull TV (HD, 720)<br>
+Olympic Channel (HD, 720)<br>
 
 †During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
 
