@@ -6,8 +6,10 @@ Last update: 1/2/2020
 Current channels:
 
 Buzzr (SD, 480p)<br>
-CBSN (HD)<br>
+CBSN (HD, 720p)<br>
 Court TV (SD, 540p)<br>
+ABC News (HD, 720p)<br>
+Bloomberg (HD, 720p)<br>
 
 
 M3U8 location:<br>
