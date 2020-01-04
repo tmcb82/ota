@@ -22,7 +22,7 @@ Cheddar Business (HD)<br>
 Cheddar Big News (HD)<br>
 France24 (SD+)<br>
 Al Jazeera (HD)<br>
-Tastemade (HD)<br>
+Tastemade (SD+)<br>
 CBS Sports HQ (HD)<br>
 Red Bull TV (HD)<br>
 Stadium (SD)<br>
