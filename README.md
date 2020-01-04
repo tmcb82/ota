@@ -5,19 +5,20 @@ Last update: 1/3/2020
 
 Current channels:
 
-Buzzr (SD, 480)<br>
-Comet (SD, 480)†<br>
-Charge! (SD, 480/540)†<br>
-CBSN (HD, 720)<br>
-Court TV (SD, 540)<br>
-ABC News (HD, 720)<br>
-Newsy (HD, 1080)<br>
-Bloomberg (HD, 720)<br>
-France24 (HD, 720)<br>
-NASA TV (HD, 720)<br>
-Tastemade (HD, 720)<br>
-CBS Sports HQ (HD, 1080)<br>
-Red Bull TV (HD, 720)<br>
+Buzzr (SD)<br>
+Comet (SD)†<br>
+Charge! (SD+)†<br>
+CBSN (HD)<br>
+Court TV (SD+)<br>
+ABC News (HD)<br>
+Newsy (HD)<br>
+Bloomberg (HD)<br>
+France24 (SD+)<br>
+Al Jazeera (HD)<br>
+NASA TV (HD)<br>
+Tastemade (HD)<br>
+CBS Sports HQ (HD)<br>
+Red Bull TV (HD)<br>
 
 
 †During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
