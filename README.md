@@ -31,7 +31,7 @@ Stadium (SD)<br>
 
 †During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
 
-
+<br><br>
 Paused/Removed channels:
 
 NASA TV (HD) (Paused temporarily; not currently reliable)<br>
