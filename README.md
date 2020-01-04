@@ -1,5 +1,5 @@
 # The Over-the-Air (OTA) Companion Service
-A *legal* streaming list of OTA sub and digital only channels in m3u8 format with logos.
+A *legal* streaming list of freely available OTA sub and digital only channels in m3u8 format with logos.
 
 Last update: 1/3/2020
 
