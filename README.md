@@ -6,7 +6,6 @@ Last update: 1/3/2020
 
 M3U8 location:<br>
 https://tmcb82.github.io/ota/ota.m3u8
-
 <br><br>
 Active channels (18):
 
