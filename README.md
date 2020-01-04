@@ -30,4 +30,4 @@ Stadium (SD+)<br>
 
 
 † During commercials short segments will loop often and feel stuck but this is normal and the show will resume.<br>
-\+ The stream is higher than SD (480p) but lower than HD (720p). HD is 720p or higher.
+\+ The stream is higher than SD (480p) but lower than HD (720p or higher).
