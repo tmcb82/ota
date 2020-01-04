@@ -18,7 +18,7 @@ Cheddar Business (HD)<br>
 Cheddar Big News (HD)<br>
 France24 (SD+)<br>
 Al Jazeera (HD)<br>
-NASA TV (HD)<br>
+NASA TV (HD) (Removed temporarily)<br>
 Tastemade (HD)<br>
 CBS Sports HQ (HD)<br>
 Red Bull TV (HD)<br>
