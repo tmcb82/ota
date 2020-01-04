@@ -3,7 +3,12 @@ A *legal* streaming list of OTA sub and digital only channels in m3u8 format wit
 
 Last update: 1/3/2020
 
-Current channels (19):
+
+M3U8 location:<br>
+https://tmcb82.github.io/ota/ota.m3u8
+
+
+Active channels (18):
 
 Buzzr (SD)<br>
 Antenna TV (SD)<br>
@@ -27,6 +32,3 @@ Stadium (SD)<br>
 
 †During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
 
-
-M3U8 location:<br>
-https://tmcb82.github.io/ota/ota.m3u8
