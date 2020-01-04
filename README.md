@@ -19,7 +19,7 @@ ABC News (HD)<br>
 Newsy (HD)<br>
 Bloomberg (HD)<br>
 Cheddar Business (HD)<br>
-Cheddar Big News (HD)<br>
+Cheddar News (HD)<br>
 France24 (SD+)<br>
 Al Jazeera (HD)<br>
 Tastemade (SD+)<br>
