@@ -1,4 +1,4 @@
-# The Over-the-Air (OTA) Companion Service
+# OtA streams - Your Over-the-Air (OTA) Companion
 A *legal* streaming list of freely available OTA sub and digital only 24/7 channels in m3u8 format with logos.
 
 Last update: 1/3/2020
