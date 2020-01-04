@@ -23,7 +23,6 @@ Cheddar Business (HD)<br>
 Cheddar Big News (HD)<br>
 France24 (SD+)<br>
 Al Jazeera (HD)<br>
-NASA TV (HD) (Removed temporarily; not currently reliable)<br>
 Tastemade (HD)<br>
 CBS Sports HQ (HD)<br>
 Red Bull TV (HD)<br>
@@ -32,3 +31,7 @@ Stadium (SD)<br>
 
 †During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
 
+
+Paused/Removed channels:
+
+NASA TV (HD) (Paused temporarily; not currently reliable)<br>
