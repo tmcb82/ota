@@ -6,6 +6,7 @@ Last update: 1/3/2020
 Current channels:
 
 Buzzr (SD)<br>
+Antenna TV (SD)<br>
 Comet (SD)†<br>
 Charge! (SD+)†<br>
 CBSN (HD)<br>
