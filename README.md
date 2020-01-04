@@ -34,4 +34,4 @@ Stadium (SD+)<br>
 
 
 <br><br>
-All streams in the provided m3u8 file are publicly available and hosted on each networks own content delivery network (CDN). We DO NOT and WILL NOT knowingly provide 
+All streams in the provided m3u8 file are publicly available and hosted on each networks own content delivery network (CDN). We do not and will not knowingly provide links to any illegal content. 
