@@ -1,5 +1,5 @@
 # OtA streams - An Over-the-Air (OTA) Companion
-Providing *legal* only streams of freely available OTA sub-channel and digital only 24/7 channels in m3u8 format with logos.
+Providing *legal* only streaming list of freely available OTA sub-channel and digital only 24/7 channels in m3u8 format with logos.
 
 Last update: 1/3/2020
 
@@ -31,3 +31,7 @@ Stadium (SD+)<br>
 
 † During commercials breaks short segments will loop often and feel stuck but this is normal and the show will resume.<br>
 \+ The stream is higher than SD (480p) but lower than HD (720p or higher).
+
+
+<br><br>
+All streams in the provided m3u8 file are publicly available and hosted on each networks own content delivery network (CDN). We DO NOT and WILL NOT knowingly provide 
