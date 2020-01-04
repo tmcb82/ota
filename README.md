@@ -13,6 +13,8 @@ Court TV (SD+)<br>
 ABC News (HD)<br>
 Newsy (HD)<br>
 Bloomberg (HD)<br>
+Cheddar Business (HD)<br>
+Cheddar Big News (HD)<br>
 France24 (SD+)<br>
 Al Jazeera (HD)<br>
 NASA TV (HD)<br>
