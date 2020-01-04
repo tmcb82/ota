@@ -29,7 +29,7 @@ Stadium (SD)<br>
 
 
 † During commercials short segments will loop often and feel stuck but this is normal and the show will resume.<br>
-+ The stream is higher than SD (480p) but lower than HD (720p).
+\+ The stream is higher than SD (480p) but lower than HD (720p).
 
 <br><br>
 Paused/Removed channels:
