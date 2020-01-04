@@ -19,6 +19,7 @@ NASA TV (HD)<br>
 Tastemade (HD)<br>
 CBS Sports HQ (HD)<br>
 Red Bull TV (HD)<br>
+Stadium (SD)<br>
 
 
 †During commercials short segments will loop often and feel stuck but this is normal and the show will resume.
