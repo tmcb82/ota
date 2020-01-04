@@ -3,7 +3,7 @@ A *legal* streaming list of OTA sub and digital only channels in m3u8 format wit
 
 Last update: 1/3/2020
 
-Current channels (18):
+Current channels (19):
 
 Buzzr (SD)<br>
 Antenna TV (SD)<br>
@@ -18,7 +18,7 @@ Cheddar Business (HD)<br>
 Cheddar Big News (HD)<br>
 France24 (SD+)<br>
 Al Jazeera (HD)<br>
-NASA TV (HD) (Removed temporarily)<br>
+NASA TV (HD) (Removed temporarily; not currently reliable)<br>
 Tastemade (HD)<br>
 CBS Sports HQ (HD)<br>
 Red Bull TV (HD)<br>
