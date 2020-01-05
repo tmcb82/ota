@@ -37,7 +37,6 @@ sub getContent()
 		groups = []
 	end if
 
-	REM #EXTINF:0 tvg-logo="" group-title="", CHANNEL NAME
 	for each line in reLineSplit.Split (text)
 		if inExtinf
 			maPath = rePath.Match (line)
