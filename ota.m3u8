@@ -33,10 +33,10 @@ https://live.chdrstatic.com/cheddar/primary/2.m3u8
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbig.png" group-title="News", Cheddar News
 https://live.chdrstatic.com/cbn/primary/2.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/france24.png" group-title="News", France24
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/france24.png" group-title="News", France24 (English)
 http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/aljazeera.png" group-title="News", Al Jazeera
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/aljazeera.png" group-title="News", Al Jazeera (English)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Lifestyle", Tastemade
