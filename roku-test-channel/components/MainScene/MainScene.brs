@@ -1,8 +1,8 @@
 sub init()
     m.top.backgroundURI = "pkg:/images/background-controls.jpg"
 
-    m.get_channel_list = m.top.FindNode("get_channel_list") 'Get channel list
-    m.get_channel_list.ObserveField("content", "SetContent") 'Load channel list
+    m.get_channel_list = m.top.FindNode("get_channel_list")
+    m.get_channel_list.ObserveField("content", "SetContent")
 
     m.list = m.top.FindNode("list")
     m.list.ObserveField("itemSelected", "setChannel") 
