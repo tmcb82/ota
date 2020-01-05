@@ -54,7 +54,6 @@ sub getContent()
 			if hasGroups
 				groupName = reHasGroups.Match(line)[1]
 				group = invalid
-				REM Don't know why, but FindNode refused to work here
 				for x = 0 to con.getChildCount()-1
 					node = con.getChild(x)
 					if node.id = groupName
