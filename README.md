@@ -1,5 +1,5 @@
 # ota - an Over-the-Air (OTA) Companion
-Providing *legal* only streaming list of freely available 24/7 sub-channel and digital only channels in m3u8 format with logos.
+The goal of this project is to provide  a *legal* streaming list of freely available 24/7 subchannel and digital only channels in m3u8 format with logos. The intention is to be much more dependable than others lists and for that reason it DOES NOT include *any* illegal streams, unreliable streams (not using a CDN), or streams from other apps (PlutoTV, STIRR, etc.).
 
 Last update: 1/4/2020
 
@@ -34,4 +34,4 @@ Stadium (SD+)<br>
 
 
 <br><br>
-All data in the provided m3u8 file is publicly available and hosted on each channels own content delivery network (CDN). This project does not and will not knowingly use any illegal content.
+All data in the provided m3u8 file is publicly available and hosted on each channels own content delivery network (CDN). This project  will not knowingly use any illegal content.
