@@ -1,7 +1,7 @@
 # ota - an Over-the-Air (OTA) Companion
 Providing *legal* only streaming list of freely available 24/7 sub-channel and digital only channels in m3u8 format with logos.
 
-Last update: Jan. 4, 2020
+Last update: 01/04/2020
 
 
 M3U8 location:<br>
