@@ -3,7 +3,6 @@
 sub Main()
 
      url = "https://tmcb82.github.io/ota/ota.m3u8"
-     epg = ""
 
     screen = CreateObject("roSGScreen")
     m.port = CreateObject("roMessagePort")
