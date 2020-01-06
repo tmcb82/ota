@@ -11,6 +11,7 @@ Currrent Channels (18):
 
 Buzzr (SD)<br>
 Antenna TV (SD)<br>
+COZI TV (SD)<br>
 Comet (SD)†<br>
 Charge! (SD+)†<br>
 Court TV (SD+)<br>
