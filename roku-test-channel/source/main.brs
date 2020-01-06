@@ -2,7 +2,7 @@
 
 sub Main()
 
-     url = " " ' The url of the m3u8 file
+     url = "https://www.example.com/example.m3u8"
 
     screen = CreateObject("roSGScreen")
     m.port = CreateObject("roMessagePort")
