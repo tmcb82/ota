@@ -7,7 +7,7 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cozitv.png" group-title="Digital Subchannels", COZI TV
-https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375|User-Agent=VLC
+https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
 
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/gettv.png" group-title="Digital Subchannels", getTV
 https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
