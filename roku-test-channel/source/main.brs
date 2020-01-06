@@ -2,7 +2,7 @@
 
 sub Main()
 
-     url = "https://www.example.com/example.m3u8"
+    url = "https://www.example.com/example.m3u8"
 
     screen = CreateObject("roSGScreen")
     m.port = CreateObject("roMessagePort")
