@@ -1,7 +1,7 @@
-title=ota live digital
+title=CHANNEL NAME HERE
 major_version=1
 minor_version=0
-build_version=26
+build_version=1
 mm_icon_focus_hd=pkg:/images/icon_focus_hd.png
 requires_mkv=1
 splash_screen_fhd=pkg:/images/splash_fhd.png
