@@ -2,7 +2,7 @@
 
 sub Main()
 
-     url = "https://tmcb82.github.io/ota/ota.m3u8"
+     url = " " ' The url of the m3u8 file
 
     screen = CreateObject("roSGScreen")
     m.port = CreateObject("roMessagePort")
