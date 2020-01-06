@@ -29,7 +29,7 @@ Red Bull TV (HD)<br>
 Stadium (SD+)<br>
 
 
-† During commercials breaks short segments will loop often and feel stuck but this is normal and the show will resume.<br>
+† During commercials breaks short segments will loop often and feel stuck but this is normal and the video will resume.<br>
 \+ The stream is higher than SD (480p) but lower than HD (720p or higher).
 
 
