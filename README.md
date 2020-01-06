@@ -1,5 +1,5 @@
 # ota - an Over-the-Air (OTA) Companion
-The goal of this project is to provide  a *legal* streaming list of freely available 24/7 subchannel and digital only channels in m3u8 format with logos. The intention is to be much more dependable than other lists and for that reason it DOES NOT include *any* illegal content, unreliable links (those not using a CDN), or links from other multi-stream platforms (PlutoTV, STIRR, etc.).
+The goal of this project is to provide  a *legal* streaming list of freely available 24/7 subchannel and digital only channels in m3u8 format with logos. The intention is to be much more dependable than other lists and for that reason it DOES NOT include *any* illegal content, unreliable links (those not using a CDN), or links from other multi-stream platforms (PlutoTV, STIRR, XUMO, etc.).
 
 Last update: 1/4/2020
 
