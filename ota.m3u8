@@ -18,22 +18,22 @@ https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/courttv.png" group-title="Digital Subchannels", Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cbsn.png" group-title="News", CBSN
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cbsn.png" group-title="Digital News", CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/abcdigital.png" group-title="News", ABC News Digital
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/abcdigital.png" group-title="Digital News", ABC News Digital
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/newsy.png" group-title="News", Newsy
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/newsy.png" group-title="Digital News", Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/bloomberg.png" group-title="News", Bloomberg Television
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/bloomberg.png" group-title="Digital News", Bloomberg Television
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbus.png" group-title="News", Cheddar Business
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbus.png" group-title="Digital News", Cheddar Business
 https://live.chdrstatic.com/cheddar/primary/2.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbig.png" group-title="News", Cheddar News
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbig.png" group-title="Digital News", Cheddar News
 https://live.chdrstatic.com/cbn/primary/2.m3u8
 
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/france24.png" group-title="Foreign News", France24
@@ -42,17 +42,17 @@ http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/aljazeera.png" group-title="Foreign News", Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Lifestyle", Tastemade
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Digital Lifestyle", Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/wnation.png" group-title="Lifestyle", WeatherNation
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/wnation.png" group-title="Digital Lifestyle", WeatherNation
 https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cbssportshq.png" group-title="Sports", CBS Sports HQ
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cbssportshq.png" group-title="Digital Sports", CBS Sports HQ
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/redbull.png" group-title="Sports", Red Bull TV
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/redbull.png" group-title="Digital Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/stadium.png" group-title="Sports", Stadium
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/stadium.png" group-title="Digital Subchannels", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
