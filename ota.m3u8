@@ -48,6 +48,9 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/wnation.png" group-title="Digital Lifestyle", WeatherNation
 https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/etlive.png" group-title="Digital Lifestyle", ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cbssportshq.png" group-title="Digital Sports", CBS Sports HQ
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 
