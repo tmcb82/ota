@@ -48,6 +48,9 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Digital Lifestyle", Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
 
+#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/dove.png" group-title="Digital Lifestyle", Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/wnation.png" group-title="Digital Lifestyle", WeatherNation
 https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
