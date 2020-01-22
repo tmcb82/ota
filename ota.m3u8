@@ -1,70 +1,70 @@
 #EXTM3U  
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/buzzr.png" group-title="Digital Subchannels", Buzzr
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/buzzr.png" group-title="Digital Subchannels", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/antennatv.png" group-title="Digital Subchannels", Antenna TV
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/antennatv.png" group-title="Digital Subchannels", Antenna TV
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/dabl.png" group-title="Digital Subchannels", Dabl
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/dabl.png" group-title="Digital Subchannels", Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/comet.png" group-title="Digital Subchannels", Comet
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/comet.png" group-title="Digital Subchannels", Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Digital Subchannels", Charge!
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Digital Subchannels", Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/tbd.png" group-title="Digital Subchannels", TBD
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/tbd.png" group-title="Digital Subchannels", TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/courttv.png" group-title="Digital Subchannels", Court TV
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/courttv.png" group-title="Digital Subchannels", Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cbsn.png" group-title="Digital News", CBSN
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cbsn.png" group-title="Digital News", CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/abcdigital.png" group-title="Digital News", ABC News Digital
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/abcdigital.png" group-title="Digital News", ABC News Digital
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/newsy.png" group-title="Digital News", Newsy
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/newsy.png" group-title="Digital News", Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/bloomberg.png" group-title="Digital News", Bloomberg Television
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/bloomberg.png" group-title="Digital News", Bloomberg Television
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbus.png" group-title="Digital News", Cheddar Business
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbus.png" group-title="Digital News", Cheddar Business
 https://live.chdrstatic.com/cheddar/primary/2.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbig.png" group-title="Digital News", Cheddar News
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbig.png" group-title="Digital News", Cheddar News
 https://live.chdrstatic.com/cbn/primary/2.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/france24.png" group-title="Foreign News", France24
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/france24.png" group-title="Foreign News", France24
 http://static.france24.com:80/live/F24_EN_HI_HLS/live_tv.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/aljazeera.png" group-title="Foreign News", Al Jazeera
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/aljazeera.png" group-title="Foreign News", Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Digital Lifestyle", Tastemade
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Digital Lifestyle", Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/contv.png" group-title="Digital Lifestyle", CONtv
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/contv.png" group-title="Digital Lifestyle", CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/wnation.png" group-title="Digital Lifestyle", WeatherNation
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/wnation.png" group-title="Digital Lifestyle", WeatherNation
 https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/etlive.png" group-title="Digital Lifestyle", ET Live
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/etlive.png" group-title="Digital Lifestyle", ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/cbssportshq.png" group-title="Digital Sports", CBS Sports HQ
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cbssportshq.png" group-title="Digital Sports", CBS Sports HQ
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/redbull.png" group-title="Digital Sports", Red Bull TV
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/redbull.png" group-title="Digital Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/stadium.png" group-title="Digital Subchannels", Stadium
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/stadium.png" group-title="Digital Subchannels", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/tennis.png" group-title="Digital Sports", Tennis Channel
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/tennis.png" group-title="Digital Sports", Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
