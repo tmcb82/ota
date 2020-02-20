@@ -33,9 +33,6 @@ https://live.chdrstatic.com/cheddar/primary/2.m3u8
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbig.png" group-title="Digital News", Cheddar News
 https://live.chdrstatic.com/cbn/primary/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/tastemade.png" group-title="Digital Lifestyle", Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cbssportshq.png" group-title="Digital Sports", CBS Sports HQ
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 
