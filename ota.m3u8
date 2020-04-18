@@ -19,8 +19,9 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/comet.png" group-title="Entertainment", Comet
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
+# Audio but no video
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/pop.png" group-title="Entertainment",POP
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/abcdigital.png" group-title="News", ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
