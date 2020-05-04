@@ -12,9 +12,15 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Entertainment",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Entertainment",Charge! via STIRR
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
 #Back up Charge source
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Entertainment", Charge!
 #https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
+
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/gameshowcentral.png" group-title="Entertainment", Game Show Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=9ebae2bb-3852-4078-9947-938e659f338e&userId=&serverSideAds=true
 
 #EXTINF:0 tvg-logo="https://tmcb82.github.io/ota/logos/comet.png" group-title="Entertainment", Comet
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
