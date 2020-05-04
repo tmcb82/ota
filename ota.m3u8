@@ -40,6 +40,9 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cheddarbus.png" group-title="News", Cheddar Business
 https://live.chdrstatic.com/cheddar/primary/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/bloomberg.png" group-title="News", Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/weather.png" group-title="Weather", The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
