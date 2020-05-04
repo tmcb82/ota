@@ -12,9 +12,6 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Entertainment",Charge!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Entertainment",Charge! via STIRR
-https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-
 #Back up Charge source
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/charge.png" group-title="Entertainment", Charge!
 #https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828
