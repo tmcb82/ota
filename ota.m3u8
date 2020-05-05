@@ -49,6 +49,9 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/weather.png" group-title="Weather", The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/wnation.png" group-title="Weather", Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/courttv.png" group-title="News", Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 
