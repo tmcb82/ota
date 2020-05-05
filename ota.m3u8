@@ -43,6 +43,9 @@ https://live.chdrstatic.com/cheddar/primary/2.m3u8
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/bloomberg.png" group-title="News", Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
+#EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/cbcews.png" group-title="News & Weather", CBC News Canada
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/weather.png" group-title="Weather", The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
