@@ -1,7 +1,7 @@
 #EXTM3U  
 
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/buzzr.png" group-title="Entertainment", Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+https://buzzrota-web.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tmcb82.github.io/ota/logos/antennatv.png" group-title="Entertainment", Antenna TV
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
